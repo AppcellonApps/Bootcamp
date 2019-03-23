@@ -1,0 +1,23 @@
+"""
+  Author -- > Joachim
+  email --> joachim.wat@gmail.com
+  github --> j0kim
+
+  These are my areas of interest:
+"""
+
+Major
+1. mobile app dev't 
+	- Android and iOS.
+2. Web development 
+	- In python
+
+Minor for now
+- Data science
+
+Languages:
+-Python
+-Java/Kotlin
+-Swift
+
+
