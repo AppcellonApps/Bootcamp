@@ -27,7 +27,7 @@ By the end of the bootcamp, our expectations of students are:
 * Develop an online profile (github, linkedin, etc)
 
 # Curriculum
-The Bootcamp is 6 months with each week dedicated to a new lesson.  Details: [Curriculum](CURRICULUM.md)
+The Bootcamp is 6 months with each week dedicated to a new lesson.  Details: [Guide](ROADMAP.md)
 
 * **Session 1:**  [Expectations](/Session-1/README.md)
 * **Session 2:**  [Git & Github](/Session-2/README.md)
