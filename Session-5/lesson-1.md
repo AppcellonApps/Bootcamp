@@ -8,7 +8,7 @@ date: 2019-02-01
 
 # Lesson 1: Testing
 
-## Introductions & Goals [![slides](../images/slides-clean.png)](slides/may-DSO-bootcamp-week-one-intros.pdf)[![view](../images/view-clean.png)](https://speakerdeck.com/phalbert/testing-and-tdd)
+## Introductions & Goals [![slides](../images/slides-clean.png)](TDD.pdf)[![view](../images/view-clean.png)](https://speakerdeck.com/phalbert/testing-and-tdd)
 
 ```
 
@@ -18,7 +18,7 @@ date: 2019-02-01
 
 ```
 
-## Fundamentals [![slides](../images/slides-clean.png)](slides/may-DSO-bootcamp-week-one-intros.pdf)[![view](../images/view-clean.png)](https://speakerdeck.com/phalbert/testing-and-tdd)
+## Fundamentals [![slides](../images/slides-clean.png)](TDD.pdf)[![view](../images/view-clean.png)](https://speakerdeck.com/phalbert/testing-and-tdd)
 
 ```
 
