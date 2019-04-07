@@ -35,3 +35,8 @@ The Bootcamp is 6 months with each week dedicated to a new lesson.  Details: [Gu
 * **Session 4:**  [Continous Integration](/Session-4/README.md)
 * **Session 5:**  [Testing & TDD](/Session-5/README.md)
 * **Session 6:**  [Continous Delivery](/Session-6/README.md)
+
+
+# CREDITS
+
+* [Layout Structure](https://github.com/devsecops/bootcamp)
