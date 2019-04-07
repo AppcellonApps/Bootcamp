@@ -1,6 +1,6 @@
 ---
 title: Appcellon Bootcamp 2019
-description: testing software
+description: Session 5 - testing software
 author: phalbert
 facilitator: Albert Luganga
 date: 2019-02-01
