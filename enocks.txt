@@ -1,6 +1,7 @@
 Hello, 
 	This is wasswa enock male.
-	I'm interested in programming and in the languages below
-		java
-		python 
+I expect to acquire backend technological techniques as well as learning the languages;
+java and python. 
+	I believe that by the end of the bootcamp i will have learnt
+software development techniques.
 	I'm also interested in web designing(word press)
