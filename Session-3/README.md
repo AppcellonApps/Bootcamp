@@ -860,3 +860,5 @@ To change your password with 'passwd' command.
 #### 40) shutdown -h now
 
 You can shut down your system using this command.
+
+For advanced Linux guides, refer to the books shared in the area of your interest.
